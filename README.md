@@ -5,7 +5,10 @@
 </p>
 
 <a href="https://arxiv.org/pdf/2510.01553">![arXiv](https://img.shields.io/badge/arXiv-2510.01553-b31b1b)</a>
+<a href="https://huggingface.co/collections/FredericFan/iodresearch">![Datasets](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white)</a>
 <a href="https://fredericvan.github.io/PKU_IoDResearch/">![website](https://img.shields.io/badge/website-PKU_IoDResearch-blue)</a>
+
+> **Note:** Code and Datasets will be released upon paper acceptance.
 
 ## 💡 Introduction
 
